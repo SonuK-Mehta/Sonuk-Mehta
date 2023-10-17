@@ -2,7 +2,8 @@
 <p>
  <img width="350" height="230" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
 </p>
-<p>🌐 Contact Me:- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmVpffPVWRtmnQLFgrjbszqsDWVcLqhBhxLCSwtbKmMHXxNdbzfKdVGtmBpZChLMGrdNSq"> sonumehta0983@gmail.com </a></p>
+<p><a href="mailto:sonumehta0983@gmail.com"><img width="130" height="30" alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8C%90_Contact_Me-blue">
+</a></p>
 </div>
 
 # 💫 About Me:
