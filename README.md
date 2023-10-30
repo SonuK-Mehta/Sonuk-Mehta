@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hello there! I'm passionate Front-End Developer on a mission to create captivating and user-friendly web experiences. With a keen eye for design and a deep understanding of the latest web technologies, I bring digital visions to life.
+👋 Hello there! I'm Front-End Developer on a mission to create captivating and user-friendly web experiences. With a keen eye for design and a deep understanding of the latest web technologies, I bring digital visions to life.
 
 
 # 💻 Tech Stack:
