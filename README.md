@@ -1,6 +1,7 @@
 <div  align="center" >
+
 <p>
- <img width="350" height="230" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" > 
+ <img width="350" height="230" src="https://github.com/SonuK-Mehta/Sonuk-Mehta/assets/131943134/5ae6d49d-8ae2-47f8-850f-eb655a20309a" > 
 </p>
 <p><a href="mailto:sonumehta0983@gmail.com"><img width="130" height="30" width="130" height="30" alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8C%90_Contact_Me-%231864ab?style=for-the-badge">
 
