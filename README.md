@@ -1,7 +1,7 @@
 <div  align="center" >
 
 <p>
- <img width="350" height="230" src="https://github.com/SonuK-Mehta/Sonuk-Mehta/assets/131943134/5ae6d49d-8ae2-47f8-850f-eb655a20309a" > 
+ <img height="230" src="https://github.com/SonuK-Mehta/Sonuk-Mehta/assets/131943134/8da3138e-5834-4aec-8ca8-3b571c52dc88" > 
 </p>
 <p><a href="mailto:sonumehta0983@gmail.com"><img width="130" height="30" width="130" height="30" alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8C%90_Contact_Me-%231864ab?style=for-the-badge">
 
