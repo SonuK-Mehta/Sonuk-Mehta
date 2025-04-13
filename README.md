@@ -34,6 +34,9 @@ I'm a Full-Stack Developer passionate about building scalable and user-friendly 
 ![](https://github-contributor-stats.vercel.app/api?username=sonuk-mehta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sonuk-mehta&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>Visitors:</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sonuk-mehta&color=blue&style=flat-square)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
